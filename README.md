@@ -119,24 +119,14 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAKASHRAO2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAKASH2005&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAKASHRAO2005&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AAKASHRAO2005&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AAKASHRAO2005&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=AAKASHRAO2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" 
-    alt="GitHub Trophies"
-  />
-</p>>
 
 
 ---
